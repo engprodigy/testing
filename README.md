@@ -1,6 +1,6 @@
 Changes made:
 
--Added to resolve Invalid Transition from Completed to Cancelled Booking
+-Added changes to resolve Invalid Transition from Completed to Cancelled Booking
 
 -Implemented some DRY (Do Not Repeat Yourself) changes
 
